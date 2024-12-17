@@ -7,8 +7,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Frontend](#frontend)
-- [Backend](#backend)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
