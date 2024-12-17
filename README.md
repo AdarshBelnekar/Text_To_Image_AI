@@ -49,6 +49,19 @@ To get started with the project, follow these steps:
 
    2.The backend server will run on http://localhost:4000.
 
+## Screenhot
+
+<p>
+  <img src="Logo/Front-Panel.png" alt="Logo"  />
+</p>
+<p>
+  <img src="Logo/Login-Panel.png" alt="Logo"  />
+</p>
+<p>
+  <img src="Logo/Image-Generate-panel.png" alt="Logo"  />
+</p>
+   
+
 
 ## Features
 
